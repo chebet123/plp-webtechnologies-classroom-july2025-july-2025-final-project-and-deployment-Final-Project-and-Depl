@@ -88,3 +88,37 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+# SparkleClean – Cleaning Company Website
+
+This is a **multi-page responsive website** for a cleaning company called SparkleClean.  
+It was built using **HTML5, CSS3, and JavaScript** as part of a web technologies assignment.
+
+---
+
+## 🌐 Website Pages
+- **Home (index.html):** Hero section introducing the company with call-to-action.
+- **About (about.html):** Company mission, values, and team.
+- **Services (services.html):** List of cleaning services offered.
+- **Gallery (gallery.html):** Image gallery of cleaning work.
+- **Contact (contact.html):** Contact form with validation.
+
+---
+
+## 📂 Project Structure
+CleaningCompanyWebsite/
+│
+├── index.html
+├── about.html
+├── services.html
+├── gallery.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+├── images/
+│ └── (sample images)
